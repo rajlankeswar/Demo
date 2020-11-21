@@ -1,0 +1,8 @@
+Interview Qustions
+------------------
+
+1. How to Reverse a string without using reverse function/method?
+2. Find Duplicets in A string?
+3. Encapslisation ?
+   ---------------
+4. How To Change Capital to Small letters In Java?
